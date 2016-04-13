@@ -1,4 +1,13 @@
 h1 {
-    font-size:128px;
+    font-size:50vh;
+    text-align: center;
     font-weight:normal;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+p {
+    text-align: center;
 }
